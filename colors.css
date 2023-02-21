@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* {
+
+  text-align: center;
+  
+  }*/
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: rgb(209, 117, 13);
+  background-color: rgb(240, 241, 241);
+  font-family: "Lucida Console", "Courier New", "monospace";
+}
+
+p {
+  color: red;
+}
+body {
+  background-color: rgb(255, 253, 253);
+}
+a{
+  color: rgba(3, 0, 1, 0.993);
+}
+.color{
+  color: rgb(255, 0, 0);
+}
