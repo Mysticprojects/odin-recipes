@@ -15,12 +15,12 @@ div {
   margin-left: 80px;
   }
 
-  div {
+div {
 
   color: rgb(209, 117, 13);
   background-color: rgb(240, 241, 241);
   font-family: "Lucida Console", "Courier New", "monospace";
-}
+  }
 
 p {
   color: red;
@@ -28,6 +28,7 @@ p {
 body {
   background-color: rgb(255, 253, 253);
 }
+
 a{
   color: rgba(3, 0, 1, 0.993);
 }
