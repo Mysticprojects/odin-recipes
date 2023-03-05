@@ -1,2 +1,2 @@
 # odin-recipes
-A web exercise about food recipes
+A simple website about food and taste
