@@ -2,21 +2,20 @@
 
 * {
 
-  text-align: center;
-  
+  text-align:center;
+  box-sizing: border-box;
   }
 
-div {
-
-  border: 2px solid black;
+.main-container {
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  }
 
-div {
+}
 
+div{
+  border: 2px solid black;
   color: rgb(209, 117, 13);
   background-color: rgb(240, 241, 241);
   font-family: "Lucida Console", "Courier New", "monospace";
